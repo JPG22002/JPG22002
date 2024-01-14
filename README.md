@@ -1,7 +1,7 @@
 ### Hi, I'm Juan-Pablo Garrido 👋
 
-<!--
-**JPG22002/JPG22002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 A passionate full stack developer from Miami
 
@@ -22,4 +22,4 @@ A passionate full stack developer from Miami
 📄 Professional Journey: Discover more about my professional experiences and the projects I've worked on by viewing my LinkedIn profile.
 
 ⚡ Fun Fact: In my free time, I enjoy exploring the latest trends in technology and dabbling in creative coding projects. My curiosity and passion for tech not only drive my professional endeavors but also enrich my personal life.
--->
+
