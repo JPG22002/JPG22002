@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan-Pablo</h1>
 <h3 align="center">A passionate full stack developer from Miami</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanwells&label=Profile%20views&color=0e75b6&style=flat" alt="ethanwells" /> </p>
+
 🔭 Currently Working On: Leading the innovative 'Job Quest' platform, a web-based solution for micro-internships and graduate roles. Utilizing React, Firebase, and YouTube API integration, I focus on enhancing user experience and engagement. Also actively involved in AI and machine learning projects, including an AI tool for the Knight Foundation that revolutionizes the grant review process.
 
 🌱 Learning & Growing: Deepening my expertise in full-stack development with a focus on languages like Java, Python, C++, and frameworks like Django, Express.js, and NodeJS. Continuously exploring new trends in database management, API design/deployment, and object-oriented programming.
